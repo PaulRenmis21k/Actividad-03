@@ -134,15 +134,3 @@ Los notebooks pueden ejecutarse localmente con Jupyter o directamente en Google 
 
 ---
 
-## Referencia teorica
-
-| Algoritmo | Inspiracion biologica | Publicacion original |
-|---|---|---|
-| ABC | Comportamiento de forrajeo de abejas | Karaboga, D. (2005). *An idea based on honey bee swarm for numerical optimization*. Erciyes University. |
-| PSO | Dinamica de bandadas de aves y cardumenes | Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization. *IEEE ICNN*, 4, 1942-1948. |
-
----
-
-## Licencia
-
-Este repositorio tiene fines academicos. Su uso, reproduccion o modificacion con propositos distintos requiere autorizacion del autor.
